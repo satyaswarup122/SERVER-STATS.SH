@@ -5,7 +5,6 @@
 This project provides a simple shell script *server-stats.sh* that analyzes basic server performance statistics on any Linux system.  
 It helps system administrators quickly monitor CPU, memory, disk usage, and identify the top resource-consuming processes.
 
----
 
 ## 📌 Features
 The script displays:
@@ -22,9 +21,8 @@ The script displays:
 - Logged-in users
 - Failed login attempts
 
----
 
-## 🚀 How to Run
+# 🚀 How to Run
 
 Follow these steps to run the script:
 
@@ -33,7 +31,7 @@ Follow these steps to run the script:
    git clone https://github.com/<your-username>/server-stats.git
    cd server-stats
 
-## RUN IN COMMAND LINE
+# RUN IN COMMAND LINE
 
 chmod +x server-stats.sh
 
@@ -59,6 +57,7 @@ Top 5 Processes by Memory:
   PID   USER   %MEM   COMMAND
   2089  user   18.5   chrome
   1024  root    9.2   python3
+
 
 
 
